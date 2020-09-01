@@ -1,4 +1,5 @@
 # AppAndroid_CompPreco
+<br>
 <h1>Aplicatico Android - Comparador de Preços </h1>
 <br>
 <h1>Indrodução:</h1>
@@ -6,9 +7,12 @@
 <br>
 <h2>Screenshots:</h2>
 <h5>Initial:</h5>
-image here
+  <img src="ambiente.png" alt="Ambiente" >
+
 <h5>Emulation app</h5>
-image 2 here
+
+  <img src="emulation.png" alt="Emulation" >
+  
 <br>
 <h1>Stacks:</h1>
 -> Kotlin
